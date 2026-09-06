@@ -1,7 +1,7 @@
 # 📉 Customer Churn Analysis Using Python
 
 <p align="center">
-  <img src="[Images/Customer Churn Analysis Banner.png](https://github.com/sabbirakash/Customer-Churn-Analysis-Using-Python/blob/main/Customer-Churn-Analysis-Banner.png)" alt="Customer Churn Analysis Banner" width="100%">
+  <img src="https://github.com/sabbirakash/Customer-Churn-Analysis-Using-Python/blob/main/Customer-Churn-Analysis-Banner.png" alt="Customer Churn Analysis Banner">
 </p>
 
 <p align="center">
